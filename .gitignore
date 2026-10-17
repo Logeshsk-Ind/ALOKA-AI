@@ -1,0 +1,92 @@
+
+# ==========================================
+# ALOKA_AI - MATLAB Project
+# ==========================================
+
+# MATLAB autosaves and backups
+*.asv
+*.m~
+*.autosave
+
+# MATLAB and Simulink generated files
+slprj/
+codegen/
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# MATLAB local project settings
+matlab.prj.local
+*.mlproj.local
+
+# ==========================================
+# IDE and operating system files
+# ==========================================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Temporary files and logs
+# ==========================================
+
+*.log
+*.tmp
+*.temp
+temp/
+tmp/
+
+# ==========================================
+# Python artifacts (if used by the backend)
+# ==========================================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ==========================================
+# Credentials and secrets
+# ==========================================
+
+.env
+.env.*
+!.env.example
+secrets/
+credentials.json
+*.pem
+*.key
+
+# ==========================================
+# Private patient information
+# ==========================================
+
+patient_data/
+patient_records/
+clinical_records/
+private_data/
+
+# DICOM medical images - review before publishing
+*.dcm
+
+# ==========================================
+# Optional: large datasets and model files
+# Uncomment only when appropriate
+# ==========================================
+
+# datasets/
+# data/raw/
+# outputs/
+# checkpoints/
+# model_weights/
+# *.mat
+# *.h5
+# *.hdf5
+# *.onnx
+# *.pt
+# *.pth
+# *.zip
