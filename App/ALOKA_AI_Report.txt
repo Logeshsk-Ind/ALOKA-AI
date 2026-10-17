@@ -1,0 +1,13 @@
+ALOKA_AI SCREENING REPORT
+
+Patient ID: PID-2026-25
+Age: 69
+Gender: Male
+Eye: Right Eye (OD)
+DR Grade: No_DR
+Severity:  
+Confidence: 30.6%
+Referable DR: false
+Image Quality: PASS (80%)
+
+Clinical note: AI-assisted screening prototype. Final interpretation should be performed by a qualified eye-care professional.
